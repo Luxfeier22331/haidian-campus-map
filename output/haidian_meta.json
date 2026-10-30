@@ -1,0 +1,21 @@
+{
+  "campus": "haidian",
+  "name": "海淀校区",
+  "bounds": [
+    116.3109681,
+    39.946837,
+    116.3179195,
+    39.9522688
+  ],
+  "sha256": "a156c657a07b646dd653413be590c7f373e00118ae862dd4683b326bc3979cff",
+  "feature_counts": {
+    "boundary": 1,
+    "green": 13,
+    "sport": 24,
+    "roadp": 3,
+    "building": 44
+  },
+  "attribution": "© OpenStreetMap contributors（ODbL 1.0）",
+  "crs": "EPSG:4326 / RFC 7946 [longitude, latitude]",
+  "warnings": []
+}

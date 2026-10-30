@@ -1,0 +1,425 @@
+{
+  "note": "fid 一旦分配就不再改变；删除要素时保留记录并标记 retired。 地点 ID（places）于 2026-10-29 第 3 轮定稿：与线上同名的沿用线上 ID，其余为英文意译；发布后不再改。",
+  "layers": {
+    "boundary": {
+      "osm:way/365025448": {
+        "fid": 1,
+        "retired": false
+      }
+    },
+    "green": {
+      "osm:green/base": {
+        "fid": 1,
+        "retired": false
+      },
+      "gpkg:areas:214": {
+        "fid": 2,
+        "retired": false
+      },
+      "gpkg:areas:215": {
+        "fid": 3,
+        "retired": false
+      },
+      "gpkg:areas:216": {
+        "fid": 4,
+        "retired": false
+      },
+      "gpkg:areas:217": {
+        "fid": 5,
+        "retired": false
+      },
+      "gpkg:areas:218": {
+        "fid": 6,
+        "retired": false
+      },
+      "gpkg:areas:219": {
+        "fid": 7,
+        "retired": false
+      },
+      "gpkg:areas:220": {
+        "fid": 8,
+        "retired": false
+      },
+      "gpkg:areas:221": {
+        "fid": 9,
+        "retired": false
+      },
+      "gpkg:areas:222": {
+        "fid": 10,
+        "retired": false
+      },
+      "gpkg:areas:223": {
+        "fid": 11,
+        "retired": false
+      },
+      "gpkg:areas:224": {
+        "fid": 12,
+        "retired": false
+      },
+      "gpkg:areas:225": {
+        "fid": 13,
+        "retired": false
+      }
+    },
+    "sport": {
+      "osm:way/72727055": {
+        "fid": 1,
+        "retired": false
+      },
+      "osm:way/72727056": {
+        "fid": 2,
+        "retired": false
+      },
+      "osm:way/72727057": {
+        "fid": 3,
+        "retired": false
+      },
+      "osm:way/72727058": {
+        "fid": 4,
+        "retired": false
+      },
+      "osm:way/782016627": {
+        "fid": 5,
+        "retired": false
+      },
+      "osm:way/782016628": {
+        "fid": 6,
+        "retired": false
+      },
+      "osm:way/849087928": {
+        "fid": 7,
+        "retired": false
+      },
+      "osm:way/849087984": {
+        "fid": 8,
+        "retired": false
+      },
+      "osm:way/955324754": {
+        "fid": 9,
+        "retired": false
+      },
+      "osm:way/955324755": {
+        "fid": 10,
+        "retired": false
+      },
+      "osm:way/955324756": {
+        "fid": 11,
+        "retired": false
+      },
+      "osm:way/955324757": {
+        "fid": 12,
+        "retired": false
+      },
+      "osm:way/955324758": {
+        "fid": 13,
+        "retired": false
+      },
+      "osm:way/955324759": {
+        "fid": 14,
+        "retired": false
+      },
+      "osm:way/955324760": {
+        "fid": 15,
+        "retired": false
+      },
+      "osm:way/955324761": {
+        "fid": 16,
+        "retired": false
+      },
+      "osm:way/955324762": {
+        "fid": 17,
+        "retired": false
+      },
+      "osm:way/955324763": {
+        "fid": 18,
+        "retired": false
+      },
+      "osm:way/955324764": {
+        "fid": 19,
+        "retired": false
+      },
+      "osm:way/955324765": {
+        "fid": 20,
+        "retired": false
+      },
+      "osm:way/955324766": {
+        "fid": 21,
+        "retired": false
+      },
+      "osm:way/955324767": {
+        "fid": 22,
+        "retired": false
+      },
+      "osm:way/955324768": {
+        "fid": 23,
+        "retired": false
+      },
+      "gpkg:areas:226": {
+        "fid": 24,
+        "retired": false
+      },
+      "gpkg:areas:227": {
+        "fid": 25,
+        "retired": true
+      },
+      "gpkg:areas:228": {
+        "fid": 26,
+        "retired": true
+      },
+      "gpkg:areas:229": {
+        "fid": 27,
+        "retired": true
+      }
+    },
+    "roadp": {
+      "roads-union#0": {
+        "fid": 1,
+        "retired": false
+      },
+      "roads-union#1": {
+        "fid": 2,
+        "retired": false
+      },
+      "roads-union#2": {
+        "fid": 3,
+        "retired": false
+      }
+    },
+    "building": {
+      "osm:way/529774441": {
+        "fid": 1,
+        "retired": false
+      },
+      "osm:way/529774443": {
+        "fid": 2,
+        "retired": false
+      },
+      "osm:way/548820883": {
+        "fid": 3,
+        "retired": false
+      },
+      "osm:way/782016624": {
+        "fid": 4,
+        "retired": false
+      },
+      "osm:way/782016625": {
+        "fid": 5,
+        "retired": false
+      },
+      "osm:way/849087985": {
+        "fid": 6,
+        "retired": false
+      },
+      "osm:way/849087987": {
+        "fid": 7,
+        "retired": false
+      },
+      "osm:way/849087988": {
+        "fid": 8,
+        "retired": false
+      },
+      "osm:way/849087989": {
+        "fid": 9,
+        "retired": false
+      },
+      "osm:way/849087990": {
+        "fid": 10,
+        "retired": false
+      },
+      "osm:way/849087991": {
+        "fid": 11,
+        "retired": false
+      },
+      "osm:way/849087992": {
+        "fid": 12,
+        "retired": false
+      },
+      "osm:way/849087993": {
+        "fid": 13,
+        "retired": false
+      },
+      "osm:way/849087994": {
+        "fid": 14,
+        "retired": false
+      },
+      "osm:way/849087995": {
+        "fid": 15,
+        "retired": false
+      },
+      "osm:way/849087998": {
+        "fid": 16,
+        "retired": false
+      },
+      "osm:way/849087999": {
+        "fid": 17,
+        "retired": false
+      },
+      "osm:way/849088000": {
+        "fid": 18,
+        "retired": false
+      },
+      "osm:way/849088001": {
+        "fid": 19,
+        "retired": false
+      },
+      "osm:way/849088002": {
+        "fid": 20,
+        "retired": false
+      },
+      "osm:way/849088003": {
+        "fid": 21,
+        "retired": false
+      },
+      "osm:way/849088004": {
+        "fid": 22,
+        "retired": false
+      },
+      "osm:way/1133062475": {
+        "fid": 23,
+        "retired": false
+      },
+      "osm:way/1315655478": {
+        "fid": 24,
+        "retired": false
+      },
+      "osm:way/1315655480": {
+        "fid": 25,
+        "retired": false
+      },
+      "osm:way/1315655481": {
+        "fid": 26,
+        "retired": false
+      },
+      "osm:relation/17420373": {
+        "fid": 27,
+        "retired": false
+      },
+      "osm:relation/17420374": {
+        "fid": 28,
+        "retired": false
+      },
+      "gpkg:buildings:43": {
+        "fid": 29,
+        "retired": false
+      },
+      "gpkg:buildings:44": {
+        "fid": 30,
+        "retired": false
+      },
+      "gpkg:buildings:45": {
+        "fid": 31,
+        "retired": false
+      },
+      "gpkg:buildings:46": {
+        "fid": 32,
+        "retired": false
+      },
+      "gpkg:buildings:47": {
+        "fid": 33,
+        "retired": false
+      },
+      "gpkg:buildings:48": {
+        "fid": 34,
+        "retired": false
+      },
+      "gpkg:buildings:49": {
+        "fid": 35,
+        "retired": false
+      },
+      "gpkg:buildings:50": {
+        "fid": 36,
+        "retired": false
+      },
+      "gpkg:buildings:51": {
+        "fid": 37,
+        "retired": false
+      },
+      "gpkg:buildings:52": {
+        "fid": 38,
+        "retired": false
+      },
+      "gpkg:buildings:53": {
+        "fid": 39,
+        "retired": false
+      },
+      "gpkg:buildings:54": {
+        "fid": 40,
+        "retired": false
+      },
+      "gpkg:buildings:55": {
+        "fid": 41,
+        "retired": false
+      },
+      "gpkg:buildings:56": {
+        "fid": 42,
+        "retired": false
+      },
+      "gpkg:buildings:58": {
+        "fid": 43,
+        "retired": false
+      },
+      "gpkg:buildings:59": {
+        "fid": 44,
+        "retired": false
+      }
+    }
+  },
+  "places": {
+    "building:12": "library",
+    "building:10": "science-engineering-building",
+    "poi:11": "haidian-west-gate",
+    "poi:14": "haidian-east-small-gate",
+    "poi:12": "haidian-north-gate",
+    "poi:13": "east-gate",
+    "poi:15": "haidian-south-gate",
+    "building:30": "haidian-staff-apartment-23",
+    "building:31": "haidian-teaching-building-20",
+    "building:13": "haidian-staff-apartment-15",
+    "building:14": "haidian-staff-apartment-14",
+    "building:9": "haidian-teaching-building-16",
+    "sport-group:篮球场": "haidian-basketball-court",
+    "building:28": "wenhua-building",
+    "building:15": "auditorium",
+    "building:18": "haidian-student-apartment-5",
+    "building:27": "haidian-student-apartment-1",
+    "building:25": "haidian-student-apartment-6",
+    "building:26": "haidian-student-apartment-7",
+    "building:6": "haidian-student-apartment-8",
+    "building:24": "haidian-social-science-ethnic-institute",
+    "sport-group:网球场": "haidian-tennis-court",
+    "building:1": "haidian-office-building-1",
+    "building:2": "haidian-office-building-2",
+    "building:8": "haidian-office-building-3",
+    "building:16": "zhonghui-building",
+    "building:11": "nanrui-building",
+    "building:23": "haidian-north-wisdom-building",
+    "building:22": "shaw-gymnasium",
+    "building:3": "haidian-hospital",
+    "building:7": "ethnic-theater",
+    "building:4": "haidian-apartment-3",
+    "building:5": "haidian-apartment-4",
+    "building:17": "haidian-apartment-2",
+    "building:20": "haidian-dance-troupe-residence-2",
+    "building:21": "haidian-dance-troupe-residence-1",
+    "building:42": "haidian-dance-troupe-residence-office",
+    "building:29": "haidian-staff-halal-canteen",
+    "building:32": "haidian-capital-construction-office",
+    "building:33": "haidian-campus-management-office",
+    "building:34": "haidian-piano-rooms",
+    "building:37": "haidian-piano-building",
+    "building:35": "haidian-zhongyang-tower",
+    "building:36": "haidian-school-of-music",
+    "building:38": "haidian-school-of-fine-arts",
+    "building:39": "haidian-school-of-music-teaching-building",
+    "building:43": "haidian-school-of-physical-education",
+    "building:44": "haidian-security-office",
+    "sport-group:田径场": "haidian-running-track",
+    "sport-group:足球场": "haidian-football-fields",
+    "sport-group:羽毛球场": "haidian-badminton-courts",
+    "poi:2": "haidian-bank-of-ningbo",
+    "poi:7": "haidian-newsstand",
+    "poi:8": "haidian-fitness-test-center",
+    "poi:9": "haidian-56-chuang",
+    "poi:10": "haidian-zhixing-hall"
+  }
+}

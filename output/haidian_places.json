@@ -1,0 +1,2822 @@
+{
+  "places": [
+    {
+      "accessNote": null,
+      "additionalProperties": [
+        {
+          "label": "地图分类",
+          "value": "校园设施"
+        },
+        {
+          "label": "名称状态",
+          "value": "已人工核对"
+        },
+        {
+          "label": "名称来源",
+          "value": "QGIS 海淀底稿（参照高德地图人工描绘），用户 lux 人工核对"
+        }
+      ],
+      "campus": "海淀校区",
+      "category": "building",
+      "description": "海淀校区一号办公楼。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.3142575,
+            39.9473746
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "building",
+          "placeId": "haidian-office-building-1",
+          "title": "一号办公楼"
+        },
+        "type": "Feature"
+      },
+      "id": "haidian-office-building-1",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:haidian-office-building-1"
+      ],
+      "tags": [
+        "办事",
+        "服务",
+        "海淀"
+      ],
+      "title": "一号办公楼",
+      "mapFeatureRefs": [
+        {
+          "fid": 1,
+          "layer": "building",
+          "sourceId": "haidian-campus"
+        }
+      ]
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [
+        {
+          "label": "地图分类",
+          "value": "校园设施"
+        },
+        {
+          "label": "名称状态",
+          "value": "已人工核对"
+        },
+        {
+          "label": "名称来源",
+          "value": "QGIS 海淀底稿（参照高德地图人工描绘），用户 lux 人工核对"
+        }
+      ],
+      "campus": "海淀校区",
+      "category": "building",
+      "description": "海淀校区二号办公楼。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.3154682,
+            39.947558
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "building",
+          "placeId": "haidian-office-building-2",
+          "title": "二号办公楼"
+        },
+        "type": "Feature"
+      },
+      "id": "haidian-office-building-2",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:haidian-office-building-2"
+      ],
+      "tags": [
+        "办事",
+        "服务",
+        "海淀"
+      ],
+      "title": "二号办公楼",
+      "mapFeatureRefs": [
+        {
+          "fid": 2,
+          "layer": "building",
+          "sourceId": "haidian-campus"
+        }
+      ]
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [
+        {
+          "label": "地图分类",
+          "value": "医疗服务"
+        },
+        {
+          "label": "名称状态",
+          "value": "已人工核对"
+        },
+        {
+          "label": "名称来源",
+          "value": "QGIS 海淀底稿（参照高德地图人工描绘），用户 lux 人工核对"
+        }
+      ],
+      "campus": "海淀校区",
+      "category": "service",
+      "description": "海淀校区中央民族大学医院。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.3125468,
+            39.9513663
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "service",
+          "placeId": "haidian-hospital",
+          "title": "中央民族大学医院"
+        },
+        "type": "Feature"
+      },
+      "id": "haidian-hospital",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:haidian-hospital"
+      ],
+      "tags": [
+        "医疗",
+        "门诊",
+        "海淀"
+      ],
+      "title": "中央民族大学医院",
+      "mapFeatureRefs": [
+        {
+          "fid": 3,
+          "layer": "building",
+          "sourceId": "haidian-campus"
+        }
+      ]
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [
+        {
+          "label": "地图分类",
+          "value": "住宿生活"
+        },
+        {
+          "label": "名称状态",
+          "value": "已人工核对"
+        },
+        {
+          "label": "名称来源",
+          "value": "QGIS 海淀底稿（参照高德地图人工描绘），用户 lux 人工核对"
+        }
+      ],
+      "campus": "海淀校区",
+      "category": "building",
+      "description": "海淀校区3号公寓。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.3124411,
+            39.9500541
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "building",
+          "placeId": "haidian-apartment-3",
+          "title": "3号公寓"
+        },
+        "type": "Feature"
+      },
+      "id": "haidian-apartment-3",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:haidian-apartment-3"
+      ],
+      "tags": [
+        "公寓",
+        "生活",
+        "海淀"
+      ],
+      "title": "3号公寓",
+      "mapFeatureRefs": [
+        {
+          "fid": 4,
+          "layer": "building",
+          "sourceId": "haidian-campus"
+        }
+      ]
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [
+        {
+          "label": "地图分类",
+          "value": "住宿生活"
+        },
+        {
+          "label": "名称状态",
+          "value": "已人工核对"
+        },
+        {
+          "label": "名称来源",
+          "value": "QGIS 海淀底稿（参照高德地图人工描绘），用户 lux 人工核对"
+        }
+      ],
+      "campus": "海淀校区",
+      "category": "building",
+      "description": "海淀校区4号公寓。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.3127551,
+            39.9504408
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "building",
+          "placeId": "haidian-apartment-4",
+          "title": "4号公寓"
+        },
+        "type": "Feature"
+      },
+      "id": "haidian-apartment-4",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:haidian-apartment-4"
+      ],
+      "tags": [
+        "公寓",
+        "生活",
+        "海淀"
+      ],
+      "title": "4号公寓",
+      "mapFeatureRefs": [
+        {
+          "fid": 5,
+          "layer": "building",
+          "sourceId": "haidian-campus"
+        }
+      ]
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [
+        {
+          "label": "地图分类",
+          "value": "住宿生活"
+        },
+        {
+          "label": "名称状态",
+          "value": "已人工核对"
+        },
+        {
+          "label": "名称来源",
+          "value": "QGIS 海淀底稿（参照高德地图人工描绘），用户 lux 人工核对"
+        }
+      ],
+      "campus": "海淀校区",
+      "category": "building",
+      "description": "海淀校区8号学生公寓。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.3151793,
+            39.9495828
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "building",
+          "placeId": "haidian-student-apartment-8",
+          "title": "8号学生公寓"
+        },
+        "type": "Feature"
+      },
+      "id": "haidian-student-apartment-8",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:haidian-student-apartment-8"
+      ],
+      "tags": [
+        "宿舍",
+        "生活",
+        "海淀"
+      ],
+      "title": "8号学生公寓",
+      "mapFeatureRefs": [
+        {
+          "fid": 6,
+          "layer": "building",
+          "sourceId": "haidian-campus"
+        }
+      ]
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [
+        {
+          "label": "地图分类",
+          "value": "公共文化"
+        },
+        {
+          "label": "名称状态",
+          "value": "已人工核对"
+        },
+        {
+          "label": "名称来源",
+          "value": "QGIS 海淀底稿（参照高德地图人工描绘），用户 lux 人工核对"
+        }
+      ],
+      "campus": "海淀校区",
+      "category": "landmark",
+      "description": "海淀校区民族剧院。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.3163965,
+            39.951105
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "landmark",
+          "placeId": "ethnic-theater",
+          "title": "民族剧院"
+        },
+        "type": "Feature"
+      },
+      "id": "ethnic-theater",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:ethnic-theater"
+      ],
+      "tags": [
+        "文化",
+        "地标",
+        "海淀"
+      ],
+      "title": "民族剧院",
+      "mapFeatureRefs": [
+        {
+          "fid": 7,
+          "layer": "building",
+          "sourceId": "haidian-campus"
+        }
+      ]
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [
+        {
+          "label": "地图分类",
+          "value": "校园设施"
+        },
+        {
+          "label": "名称状态",
+          "value": "已人工核对"
+        },
+        {
+          "label": "名称来源",
+          "value": "QGIS 海淀底稿（参照高德地图人工描绘），用户 lux 人工核对"
+        }
+      ],
+      "campus": "海淀校区",
+      "category": "building",
+      "description": "海淀校区三号办公楼。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.3153538,
+            39.9484581
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "building",
+          "placeId": "haidian-office-building-3",
+          "title": "三号办公楼"
+        },
+        "type": "Feature"
+      },
+      "id": "haidian-office-building-3",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:haidian-office-building-3"
+      ],
+      "tags": [
+        "办事",
+        "服务",
+        "海淀"
+      ],
+      "title": "三号办公楼",
+      "mapFeatureRefs": [
+        {
+          "fid": 8,
+          "layer": "building",
+          "sourceId": "haidian-campus"
+        }
+      ]
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [
+        {
+          "label": "地图分类",
+          "value": "教学科研"
+        },
+        {
+          "label": "名称状态",
+          "value": "已人工核对"
+        },
+        {
+          "label": "名称来源",
+          "value": "QGIS 海淀底稿（参照高德地图人工描绘），用户 lux 人工核对"
+        }
+      ],
+      "campus": "海淀校区",
+      "category": "building",
+      "description": "海淀校区16号教学楼。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.3129603,
+            39.9482396
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "building",
+          "placeId": "haidian-teaching-building-16",
+          "title": "16号教学楼"
+        },
+        "type": "Feature"
+      },
+      "id": "haidian-teaching-building-16",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:haidian-teaching-building-16"
+      ],
+      "tags": [
+        "教学",
+        "上课",
+        "海淀"
+      ],
+      "title": "16号教学楼",
+      "mapFeatureRefs": [
+        {
+          "fid": 9,
+          "layer": "building",
+          "sourceId": "haidian-campus"
+        }
+      ]
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [
+        {
+          "label": "地图分类",
+          "value": "教学科研"
+        },
+        {
+          "label": "名称状态",
+          "value": "已人工核对"
+        },
+        {
+          "label": "名称来源",
+          "value": "QGIS 海淀底稿（参照高德地图人工描绘），用户 lux 人工核对"
+        }
+      ],
+      "campus": "海淀校区",
+      "category": "building",
+      "description": "海淀校区理工楼。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.3131502,
+            39.9473197
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "building",
+          "placeId": "science-engineering-building",
+          "title": "理工楼"
+        },
+        "type": "Feature"
+      },
+      "id": "science-engineering-building",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:science-engineering-building"
+      ],
+      "tags": [
+        "教学",
+        "上课",
+        "海淀"
+      ],
+      "title": "理工楼",
+      "mapFeatureRefs": [
+        {
+          "fid": 10,
+          "layer": "building",
+          "sourceId": "haidian-campus"
+        }
+      ]
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [
+        {
+          "label": "地图分类",
+          "value": "教学科研"
+        },
+        {
+          "label": "名称状态",
+          "value": "已人工核对"
+        },
+        {
+          "label": "名称来源",
+          "value": "QGIS 海淀底稿（参照高德地图人工描绘），用户 lux 人工核对"
+        }
+      ],
+      "campus": "海淀校区",
+      "category": "building",
+      "description": "海淀校区南睿楼。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.316641,
+            39.9476579
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "building",
+          "placeId": "nanrui-building",
+          "title": "南睿楼"
+        },
+        "type": "Feature"
+      },
+      "id": "nanrui-building",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:nanrui-building"
+      ],
+      "tags": [
+        "教学",
+        "上课",
+        "海淀"
+      ],
+      "title": "南睿楼",
+      "mapFeatureRefs": [
+        {
+          "fid": 11,
+          "layer": "building",
+          "sourceId": "haidian-campus"
+        }
+      ]
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [
+        {
+          "label": "地图分类",
+          "value": "公共文化"
+        },
+        {
+          "label": "名称状态",
+          "value": "已人工核对"
+        },
+        {
+          "label": "名称来源",
+          "value": "QGIS 海淀底稿（参照高德地图人工描绘），用户 lux 人工核对"
+        }
+      ],
+      "campus": "海淀校区",
+      "category": "building",
+      "description": "海淀校区民大图书馆。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.3120591,
+            39.9471799
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "building",
+          "placeId": "library",
+          "title": "民大图书馆"
+        },
+        "type": "Feature"
+      },
+      "id": "library",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:library"
+      ],
+      "tags": [
+        "文化",
+        "地标",
+        "海淀"
+      ],
+      "title": "民大图书馆",
+      "mapFeatureRefs": [
+        {
+          "fid": 12,
+          "layer": "building",
+          "sourceId": "haidian-campus"
+        }
+      ]
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [
+        {
+          "label": "地图分类",
+          "value": "住宿生活"
+        },
+        {
+          "label": "名称状态",
+          "value": "已人工核对"
+        },
+        {
+          "label": "名称来源",
+          "value": "QGIS 海淀底稿（参照高德地图人工描绘），用户 lux 人工核对"
+        }
+      ],
+      "campus": "海淀校区",
+      "category": "building",
+      "description": "海淀校区15号教职工宿舍。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.3128358,
+            39.9490266
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "building",
+          "placeId": "haidian-staff-apartment-15",
+          "title": "15号教职工宿舍"
+        },
+        "type": "Feature"
+      },
+      "id": "haidian-staff-apartment-15",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:haidian-staff-apartment-15"
+      ],
+      "tags": [
+        "公寓",
+        "生活",
+        "海淀"
+      ],
+      "title": "15号教职工宿舍",
+      "mapFeatureRefs": [
+        {
+          "fid": 13,
+          "layer": "building",
+          "sourceId": "haidian-campus"
+        }
+      ]
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [
+        {
+          "label": "地图分类",
+          "value": "住宿生活"
+        },
+        {
+          "label": "名称状态",
+          "value": "已人工核对"
+        },
+        {
+          "label": "名称来源",
+          "value": "QGIS 海淀底稿（参照高德地图人工描绘），用户 lux 人工核对"
+        }
+      ],
+      "campus": "海淀校区",
+      "category": "building",
+      "description": "海淀校区14号教职工宿舍。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.3127422,
+            39.9495063
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "building",
+          "placeId": "haidian-staff-apartment-14",
+          "title": "14号教职工宿舍"
+        },
+        "type": "Feature"
+      },
+      "id": "haidian-staff-apartment-14",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:haidian-staff-apartment-14"
+      ],
+      "tags": [
+        "公寓",
+        "生活",
+        "海淀"
+      ],
+      "title": "14号教职工宿舍",
+      "mapFeatureRefs": [
+        {
+          "fid": 14,
+          "layer": "building",
+          "sourceId": "haidian-campus"
+        }
+      ]
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [
+        {
+          "label": "地图分类",
+          "value": "公共文化"
+        },
+        {
+          "label": "名称状态",
+          "value": "已人工核对"
+        },
+        {
+          "label": "名称来源",
+          "value": "QGIS 海淀底稿（参照高德地图人工描绘），用户 lux 人工核对"
+        }
+      ],
+      "campus": "海淀校区",
+      "category": "landmark",
+      "description": "海淀校区大礼堂。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.3140727,
+            39.9488393
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "landmark",
+          "placeId": "auditorium",
+          "title": "大礼堂"
+        },
+        "type": "Feature"
+      },
+      "id": "auditorium",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:auditorium"
+      ],
+      "tags": [
+        "文化",
+        "地标",
+        "海淀"
+      ],
+      "title": "大礼堂",
+      "mapFeatureRefs": [
+        {
+          "fid": 15,
+          "layer": "building",
+          "sourceId": "haidian-campus"
+        }
+      ]
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [
+        {
+          "label": "地图分类",
+          "value": "教学科研"
+        },
+        {
+          "label": "名称状态",
+          "value": "已人工核对"
+        },
+        {
+          "label": "名称来源",
+          "value": "QGIS 海淀底稿（参照高德地图人工描绘），用户 lux 人工核对"
+        }
+      ],
+      "campus": "海淀校区",
+      "category": "building",
+      "description": "海淀校区中慧楼。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.3169031,
+            39.9481149
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "building",
+          "placeId": "zhonghui-building",
+          "title": "中慧楼"
+        },
+        "type": "Feature"
+      },
+      "id": "zhonghui-building",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:zhonghui-building"
+      ],
+      "tags": [
+        "教学",
+        "上课",
+        "海淀"
+      ],
+      "title": "中慧楼",
+      "mapFeatureRefs": [
+        {
+          "fid": 16,
+          "layer": "building",
+          "sourceId": "haidian-campus"
+        }
+      ]
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [
+        {
+          "label": "地图分类",
+          "value": "住宿生活"
+        },
+        {
+          "label": "名称状态",
+          "value": "已人工核对"
+        },
+        {
+          "label": "名称来源",
+          "value": "QGIS 海淀底稿（参照高德地图人工描绘），用户 lux 人工核对"
+        }
+      ],
+      "campus": "海淀校区",
+      "category": "building",
+      "description": "海淀校区2号公寓。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.3136868,
+            39.9502015
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "building",
+          "placeId": "haidian-apartment-2",
+          "title": "2号公寓"
+        },
+        "type": "Feature"
+      },
+      "id": "haidian-apartment-2",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:haidian-apartment-2"
+      ],
+      "tags": [
+        "公寓",
+        "生活",
+        "海淀"
+      ],
+      "title": "2号公寓",
+      "mapFeatureRefs": [
+        {
+          "fid": 17,
+          "layer": "building",
+          "sourceId": "haidian-campus"
+        }
+      ]
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [
+        {
+          "label": "地图分类",
+          "value": "住宿生活"
+        },
+        {
+          "label": "名称状态",
+          "value": "已人工核对"
+        },
+        {
+          "label": "名称来源",
+          "value": "QGIS 海淀底稿（参照高德地图人工描绘），用户 lux 人工核对"
+        }
+      ],
+      "campus": "海淀校区",
+      "category": "building",
+      "description": "海淀校区5号学生公寓。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.3127383,
+            39.9509928
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "building",
+          "placeId": "haidian-student-apartment-5",
+          "title": "5号学生公寓"
+        },
+        "type": "Feature"
+      },
+      "id": "haidian-student-apartment-5",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:haidian-student-apartment-5"
+      ],
+      "tags": [
+        "宿舍",
+        "生活",
+        "海淀"
+      ],
+      "title": "5号学生公寓",
+      "mapFeatureRefs": [
+        {
+          "fid": 18,
+          "layer": "building",
+          "sourceId": "haidian-campus"
+        }
+      ]
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [
+        {
+          "label": "地图分类",
+          "value": "住宿生活"
+        },
+        {
+          "label": "名称状态",
+          "value": "已人工核对"
+        },
+        {
+          "label": "名称来源",
+          "value": "QGIS 海淀底稿（参照高德地图人工描绘），用户 lux 人工核对"
+        }
+      ],
+      "campus": "海淀校区",
+      "category": "building",
+      "description": "海淀校区歌舞团家属院2号楼。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.3161121,
+            39.9519835
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "building",
+          "placeId": "haidian-dance-troupe-residence-2",
+          "title": "歌舞团家属院2号楼"
+        },
+        "type": "Feature"
+      },
+      "id": "haidian-dance-troupe-residence-2",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:haidian-dance-troupe-residence-2"
+      ],
+      "tags": [
+        "公寓",
+        "生活",
+        "海淀"
+      ],
+      "title": "歌舞团家属院2号楼",
+      "mapFeatureRefs": [
+        {
+          "fid": 20,
+          "layer": "building",
+          "sourceId": "haidian-campus"
+        }
+      ]
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [
+        {
+          "label": "地图分类",
+          "value": "住宿生活"
+        },
+        {
+          "label": "名称状态",
+          "value": "已人工核对"
+        },
+        {
+          "label": "名称来源",
+          "value": "QGIS 海淀底稿（参照高德地图人工描绘），用户 lux 人工核对"
+        }
+      ],
+      "campus": "海淀校区",
+      "category": "building",
+      "description": "海淀校区歌舞团家属院1号楼。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.3161861,
+            39.9516281
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "building",
+          "placeId": "haidian-dance-troupe-residence-1",
+          "title": "歌舞团家属院1号楼"
+        },
+        "type": "Feature"
+      },
+      "id": "haidian-dance-troupe-residence-1",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:haidian-dance-troupe-residence-1"
+      ],
+      "tags": [
+        "公寓",
+        "生活",
+        "海淀"
+      ],
+      "title": "歌舞团家属院1号楼",
+      "mapFeatureRefs": [
+        {
+          "fid": 21,
+          "layer": "building",
+          "sourceId": "haidian-campus"
+        }
+      ]
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [
+        {
+          "label": "地图分类",
+          "value": "体育场地"
+        },
+        {
+          "label": "名称状态",
+          "value": "已人工核对"
+        },
+        {
+          "label": "名称来源",
+          "value": "QGIS 海淀底稿（参照高德地图人工描绘），用户 lux 人工核对"
+        }
+      ],
+      "campus": "海淀校区",
+      "category": "landmark",
+      "description": "海淀校区逸夫体育馆。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.3152708,
+            39.9517789
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "landmark",
+          "placeId": "shaw-gymnasium",
+          "title": "逸夫体育馆"
+        },
+        "type": "Feature"
+      },
+      "id": "shaw-gymnasium",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:shaw-gymnasium"
+      ],
+      "tags": [
+        "运动",
+        "体育馆",
+        "海淀"
+      ],
+      "title": "逸夫体育馆",
+      "mapFeatureRefs": [
+        {
+          "fid": 22,
+          "layer": "building",
+          "sourceId": "haidian-campus"
+        }
+      ]
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [
+        {
+          "label": "地图分类",
+          "value": "教学科研"
+        },
+        {
+          "label": "名称状态",
+          "value": "已人工核对"
+        },
+        {
+          "label": "名称来源",
+          "value": "QGIS 海淀底稿（参照高德地图人工描绘），用户 lux 人工核对"
+        }
+      ],
+      "campus": "海淀校区",
+      "category": "building",
+      "description": "海淀校区北智楼。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.3165119,
+            39.9485777
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "building",
+          "placeId": "haidian-north-wisdom-building",
+          "title": "北智楼"
+        },
+        "type": "Feature"
+      },
+      "id": "haidian-north-wisdom-building",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:haidian-north-wisdom-building"
+      ],
+      "tags": [
+        "教学",
+        "上课",
+        "海淀"
+      ],
+      "title": "北智楼",
+      "mapFeatureRefs": [
+        {
+          "fid": 23,
+          "layer": "building",
+          "sourceId": "haidian-campus"
+        }
+      ]
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [
+        {
+          "label": "楼层",
+          "value": "1层"
+        },
+        {
+          "label": "地图分类",
+          "value": "教学科研"
+        },
+        {
+          "label": "名称状态",
+          "value": "已人工核对"
+        },
+        {
+          "label": "名称来源",
+          "value": "QGIS 海淀底稿（参照高德地图人工描绘），用户 lux 人工核对"
+        }
+      ],
+      "campus": "海淀校区",
+      "category": "building",
+      "description": "海淀校区中国社会科学院民族学与人类学研究所。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.3154345,
+            39.9501777
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "building",
+          "placeId": "haidian-social-science-ethnic-institute",
+          "title": "中国社会科学院民族学与人类学研究所"
+        },
+        "type": "Feature"
+      },
+      "id": "haidian-social-science-ethnic-institute",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:haidian-social-science-ethnic-institute"
+      ],
+      "tags": [
+        "教学",
+        "上课",
+        "海淀"
+      ],
+      "title": "中国社会科学院民族学与人类学研究所",
+      "mapFeatureRefs": [
+        {
+          "fid": 24,
+          "layer": "building",
+          "sourceId": "haidian-campus"
+        }
+      ]
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [
+        {
+          "label": "地图分类",
+          "value": "住宿生活"
+        },
+        {
+          "label": "名称状态",
+          "value": "已人工核对"
+        },
+        {
+          "label": "名称来源",
+          "value": "QGIS 海淀底稿（参照高德地图人工描绘），用户 lux 人工核对"
+        }
+      ],
+      "campus": "海淀校区",
+      "category": "building",
+      "description": "海淀校区6号学生公寓。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.3150685,
+            39.9510417
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "building",
+          "placeId": "haidian-student-apartment-6",
+          "title": "6号学生公寓"
+        },
+        "type": "Feature"
+      },
+      "id": "haidian-student-apartment-6",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:haidian-student-apartment-6"
+      ],
+      "tags": [
+        "宿舍",
+        "生活",
+        "海淀"
+      ],
+      "title": "6号学生公寓",
+      "mapFeatureRefs": [
+        {
+          "fid": 25,
+          "layer": "building",
+          "sourceId": "haidian-campus"
+        }
+      ]
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [
+        {
+          "label": "地图分类",
+          "value": "住宿生活"
+        },
+        {
+          "label": "名称状态",
+          "value": "已人工核对"
+        },
+        {
+          "label": "名称来源",
+          "value": "QGIS 海淀底稿（参照高德地图人工描绘），用户 lux 人工核对"
+        }
+      ],
+      "campus": "海淀校区",
+      "category": "building",
+      "description": "海淀校区7号学生公寓。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.3151015,
+            39.9507072
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "building",
+          "placeId": "haidian-student-apartment-7",
+          "title": "7号学生公寓"
+        },
+        "type": "Feature"
+      },
+      "id": "haidian-student-apartment-7",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:haidian-student-apartment-7"
+      ],
+      "tags": [
+        "宿舍",
+        "生活",
+        "海淀"
+      ],
+      "title": "7号学生公寓",
+      "mapFeatureRefs": [
+        {
+          "fid": 26,
+          "layer": "building",
+          "sourceId": "haidian-campus"
+        }
+      ]
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [
+        {
+          "label": "地图分类",
+          "value": "住宿生活"
+        },
+        {
+          "label": "名称状态",
+          "value": "已人工核对"
+        },
+        {
+          "label": "名称来源",
+          "value": "QGIS 海淀底稿（参照高德地图人工描绘），用户 lux 人工核对"
+        }
+      ],
+      "campus": "海淀校区",
+      "category": "building",
+      "description": "海淀校区1号学生公寓。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.3134902,
+            39.9508377
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "building",
+          "placeId": "haidian-student-apartment-1",
+          "title": "1号学生公寓"
+        },
+        "type": "Feature"
+      },
+      "id": "haidian-student-apartment-1",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:haidian-student-apartment-1"
+      ],
+      "tags": [
+        "宿舍",
+        "生活",
+        "海淀"
+      ],
+      "title": "1号学生公寓",
+      "mapFeatureRefs": [
+        {
+          "fid": 27,
+          "layer": "building",
+          "sourceId": "haidian-campus"
+        }
+      ]
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [
+        {
+          "label": "地图分类",
+          "value": "教学科研"
+        },
+        {
+          "label": "名称状态",
+          "value": "已人工核对"
+        },
+        {
+          "label": "名称来源",
+          "value": "QGIS 海淀底稿（参照高德地图人工描绘），用户 lux 人工核对"
+        }
+      ],
+      "campus": "海淀校区",
+      "category": "building",
+      "description": "海淀校区文华楼。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.3142985,
+            39.9496055
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "building",
+          "placeId": "wenhua-building",
+          "title": "文华楼"
+        },
+        "type": "Feature"
+      },
+      "id": "wenhua-building",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:wenhua-building"
+      ],
+      "tags": [
+        "教学",
+        "上课",
+        "海淀"
+      ],
+      "title": "文华楼",
+      "mapFeatureRefs": [
+        {
+          "fid": 28,
+          "layer": "building",
+          "sourceId": "haidian-campus"
+        }
+      ]
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [
+        {
+          "label": "地图分类",
+          "value": "餐饮"
+        },
+        {
+          "label": "名称状态",
+          "value": "已人工核对"
+        },
+        {
+          "label": "名称来源",
+          "value": "QGIS 海淀底稿（参照高德地图人工描绘），用户 lux 人工核对"
+        }
+      ],
+      "campus": "海淀校区",
+      "category": "building",
+      "description": "海淀校区教工清真食堂。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.3137218,
+            39.9514733
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "building",
+          "placeId": "haidian-staff-halal-canteen",
+          "title": "教工清真食堂"
+        },
+        "type": "Feature"
+      },
+      "id": "haidian-staff-halal-canteen",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:haidian-staff-halal-canteen"
+      ],
+      "tags": [
+        "食堂",
+        "生活",
+        "海淀"
+      ],
+      "title": "教工清真食堂",
+      "mapFeatureRefs": [
+        {
+          "fid": 29,
+          "layer": "building",
+          "sourceId": "haidian-campus"
+        }
+      ]
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [
+        {
+          "label": "地图分类",
+          "value": "住宿生活"
+        },
+        {
+          "label": "名称状态",
+          "value": "已人工核对"
+        },
+        {
+          "label": "名称来源",
+          "value": "QGIS 海淀底稿（参照高德地图人工描绘），用户 lux 人工核对"
+        }
+      ],
+      "campus": "海淀校区",
+      "category": "building",
+      "description": "海淀校区23号教职工宿舍。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.3113508,
+            39.9499576
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "building",
+          "placeId": "haidian-staff-apartment-23",
+          "title": "23号教职工宿舍"
+        },
+        "type": "Feature"
+      },
+      "id": "haidian-staff-apartment-23",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:haidian-staff-apartment-23"
+      ],
+      "tags": [
+        "公寓",
+        "生活",
+        "海淀"
+      ],
+      "title": "23号教职工宿舍",
+      "mapFeatureRefs": [
+        {
+          "fid": 30,
+          "layer": "building",
+          "sourceId": "haidian-campus"
+        }
+      ]
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [
+        {
+          "label": "地图分类",
+          "value": "教学科研"
+        },
+        {
+          "label": "名称状态",
+          "value": "已人工核对"
+        },
+        {
+          "label": "名称来源",
+          "value": "QGIS 海淀底稿（参照高德地图人工描绘），用户 lux 人工核对"
+        }
+      ],
+      "campus": "海淀校区",
+      "category": "building",
+      "description": "海淀校区20号教学楼。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.3118731,
+            39.9489727
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "building",
+          "placeId": "haidian-teaching-building-20",
+          "title": "20号教学楼"
+        },
+        "type": "Feature"
+      },
+      "id": "haidian-teaching-building-20",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:haidian-teaching-building-20"
+      ],
+      "tags": [
+        "教学",
+        "上课",
+        "海淀"
+      ],
+      "title": "20号教学楼",
+      "mapFeatureRefs": [
+        {
+          "fid": 31,
+          "layer": "building",
+          "sourceId": "haidian-campus"
+        }
+      ]
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [
+        {
+          "label": "地图分类",
+          "value": "校园设施"
+        },
+        {
+          "label": "名称状态",
+          "value": "已人工核对"
+        },
+        {
+          "label": "名称来源",
+          "value": "QGIS 海淀底稿（参照高德地图人工描绘），用户 lux 人工核对"
+        }
+      ],
+      "campus": "海淀校区",
+      "category": "building",
+      "description": "海淀校区基本建设管理处。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.312518,
+            39.949291
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "building",
+          "placeId": "haidian-capital-construction-office",
+          "title": "基本建设管理处"
+        },
+        "type": "Feature"
+      },
+      "id": "haidian-capital-construction-office",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:haidian-capital-construction-office"
+      ],
+      "tags": [
+        "办事",
+        "服务",
+        "海淀"
+      ],
+      "title": "基本建设管理处",
+      "mapFeatureRefs": [
+        {
+          "fid": 32,
+          "layer": "building",
+          "sourceId": "haidian-campus"
+        }
+      ]
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [
+        {
+          "label": "地图分类",
+          "value": "校园设施"
+        },
+        {
+          "label": "名称状态",
+          "value": "已人工核对"
+        },
+        {
+          "label": "名称来源",
+          "value": "QGIS 海淀底稿（参照高德地图人工描绘），用户 lux 人工核对"
+        }
+      ],
+      "campus": "海淀校区",
+      "category": "building",
+      "description": "海淀校区校园管理部。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.312363,
+            39.9497208
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "building",
+          "placeId": "haidian-campus-management-office",
+          "title": "校园管理部"
+        },
+        "type": "Feature"
+      },
+      "id": "haidian-campus-management-office",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:haidian-campus-management-office"
+      ],
+      "tags": [
+        "办事",
+        "服务",
+        "海淀"
+      ],
+      "title": "校园管理部",
+      "mapFeatureRefs": [
+        {
+          "fid": 33,
+          "layer": "building",
+          "sourceId": "haidian-campus"
+        }
+      ]
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [
+        {
+          "label": "地图分类",
+          "value": "教学科研"
+        },
+        {
+          "label": "名称状态",
+          "value": "已人工核对"
+        },
+        {
+          "label": "名称来源",
+          "value": "QGIS 海淀底稿（参照高德地图人工描绘），用户 lux 人工核对"
+        }
+      ],
+      "campus": "海淀校区",
+      "category": "building",
+      "description": "海淀校区琴房。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.3146935,
+            39.9518699
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "building",
+          "placeId": "haidian-piano-rooms",
+          "title": "琴房"
+        },
+        "type": "Feature"
+      },
+      "id": "haidian-piano-rooms",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:haidian-piano-rooms"
+      ],
+      "tags": [
+        "教学",
+        "上课",
+        "海淀"
+      ],
+      "title": "琴房",
+      "mapFeatureRefs": [
+        {
+          "fid": 34,
+          "layer": "building",
+          "sourceId": "haidian-campus"
+        }
+      ]
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [
+        {
+          "label": "地图分类",
+          "value": "商业服务"
+        },
+        {
+          "label": "名称状态",
+          "value": "已人工核对"
+        },
+        {
+          "label": "名称来源",
+          "value": "QGIS 海淀底稿（参照高德地图人工描绘），用户 lux 人工核对"
+        }
+      ],
+      "campus": "海淀校区",
+      "category": "building",
+      "description": "海淀校区中杨大厦。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.3173562,
+            39.9477653
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "building",
+          "placeId": "haidian-zhongyang-tower",
+          "title": "中杨大厦"
+        },
+        "type": "Feature"
+      },
+      "id": "haidian-zhongyang-tower",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:haidian-zhongyang-tower"
+      ],
+      "tags": [
+        "商业",
+        "服务",
+        "海淀"
+      ],
+      "title": "中杨大厦",
+      "mapFeatureRefs": [
+        {
+          "fid": 35,
+          "layer": "building",
+          "sourceId": "haidian-campus"
+        }
+      ]
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [
+        {
+          "label": "地图分类",
+          "value": "教学科研"
+        },
+        {
+          "label": "名称状态",
+          "value": "已人工核对"
+        },
+        {
+          "label": "名称来源",
+          "value": "QGIS 海淀底稿（参照高德地图人工描绘），用户 lux 人工核对"
+        }
+      ],
+      "campus": "海淀校区",
+      "category": "building",
+      "description": "海淀校区中央民族大学音乐学院。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.3119447,
+            39.9486413
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "building",
+          "placeId": "haidian-school-of-music",
+          "title": "中央民族大学音乐学院"
+        },
+        "type": "Feature"
+      },
+      "id": "haidian-school-of-music",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:haidian-school-of-music"
+      ],
+      "tags": [
+        "教学",
+        "上课",
+        "海淀"
+      ],
+      "title": "中央民族大学音乐学院",
+      "mapFeatureRefs": [
+        {
+          "fid": 36,
+          "layer": "building",
+          "sourceId": "haidian-campus"
+        }
+      ]
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [
+        {
+          "label": "地图分类",
+          "value": "教学科研"
+        },
+        {
+          "label": "名称状态",
+          "value": "已人工核对"
+        },
+        {
+          "label": "名称来源",
+          "value": "QGIS 海淀底稿（参照高德地图人工描绘），用户 lux 人工核对"
+        }
+      ],
+      "campus": "海淀校区",
+      "category": "building",
+      "description": "海淀校区琴房楼。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.3116866,
+            39.9487174
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "building",
+          "placeId": "haidian-piano-building",
+          "title": "琴房楼"
+        },
+        "type": "Feature"
+      },
+      "id": "haidian-piano-building",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:haidian-piano-building"
+      ],
+      "tags": [
+        "教学",
+        "上课",
+        "海淀"
+      ],
+      "title": "琴房楼",
+      "mapFeatureRefs": [
+        {
+          "fid": 37,
+          "layer": "building",
+          "sourceId": "haidian-campus"
+        }
+      ]
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [
+        {
+          "label": "地图分类",
+          "value": "教学科研"
+        },
+        {
+          "label": "名称状态",
+          "value": "已人工核对"
+        },
+        {
+          "label": "名称来源",
+          "value": "QGIS 海淀底稿（参照高德地图人工描绘），用户 lux 人工核对"
+        }
+      ],
+      "campus": "海淀校区",
+      "category": "building",
+      "description": "海淀校区中央民族大学美术学院。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.3126729,
+            39.9484866
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "building",
+          "placeId": "haidian-school-of-fine-arts",
+          "title": "中央民族大学美术学院"
+        },
+        "type": "Feature"
+      },
+      "id": "haidian-school-of-fine-arts",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:haidian-school-of-fine-arts"
+      ],
+      "tags": [
+        "教学",
+        "上课",
+        "海淀"
+      ],
+      "title": "中央民族大学美术学院",
+      "mapFeatureRefs": [
+        {
+          "fid": 38,
+          "layer": "building",
+          "sourceId": "haidian-campus"
+        }
+      ]
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [
+        {
+          "label": "地图分类",
+          "value": "教学科研"
+        },
+        {
+          "label": "名称状态",
+          "value": "已人工核对"
+        },
+        {
+          "label": "名称来源",
+          "value": "QGIS 海淀底稿（参照高德地图人工描绘），用户 lux 人工核对"
+        }
+      ],
+      "campus": "海淀校区",
+      "category": "building",
+      "description": "海淀校区中央民族大学音乐学院教学楼。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.3131858,
+            39.9485194
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "building",
+          "placeId": "haidian-school-of-music-teaching-building",
+          "title": "中央民族大学音乐学院教学楼"
+        },
+        "type": "Feature"
+      },
+      "id": "haidian-school-of-music-teaching-building",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:haidian-school-of-music-teaching-building"
+      ],
+      "tags": [
+        "教学",
+        "上课",
+        "海淀"
+      ],
+      "title": "中央民族大学音乐学院教学楼",
+      "mapFeatureRefs": [
+        {
+          "fid": 39,
+          "layer": "building",
+          "sourceId": "haidian-campus"
+        }
+      ]
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [
+        {
+          "label": "地图分类",
+          "value": "住宿生活"
+        },
+        {
+          "label": "名称状态",
+          "value": "已人工核对"
+        },
+        {
+          "label": "名称来源",
+          "value": "QGIS 海淀底稿（参照高德地图人工描绘），用户 lux 人工核对"
+        }
+      ],
+      "campus": "海淀校区",
+      "category": "building",
+      "description": "海淀校区歌舞团家属院办公楼。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.3170607,
+            39.9517682
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "building",
+          "placeId": "haidian-dance-troupe-residence-office",
+          "title": "歌舞团家属院办公楼"
+        },
+        "type": "Feature"
+      },
+      "id": "haidian-dance-troupe-residence-office",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:haidian-dance-troupe-residence-office"
+      ],
+      "tags": [
+        "公寓",
+        "生活",
+        "海淀"
+      ],
+      "title": "歌舞团家属院办公楼",
+      "mapFeatureRefs": [
+        {
+          "fid": 42,
+          "layer": "building",
+          "sourceId": "haidian-campus"
+        }
+      ]
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [
+        {
+          "label": "地图分类",
+          "value": "教学科研"
+        },
+        {
+          "label": "名称状态",
+          "value": "已人工核对"
+        },
+        {
+          "label": "名称来源",
+          "value": "QGIS 海淀底稿（参照高德地图人工描绘），用户 lux 人工核对"
+        }
+      ],
+      "campus": "海淀校区",
+      "category": "building",
+      "description": "海淀校区体育学院。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.3153194,
+            39.9514679
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "building",
+          "placeId": "haidian-school-of-physical-education",
+          "title": "体育学院"
+        },
+        "type": "Feature"
+      },
+      "id": "haidian-school-of-physical-education",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:haidian-school-of-physical-education"
+      ],
+      "tags": [
+        "教学",
+        "上课",
+        "海淀"
+      ],
+      "title": "体育学院",
+      "mapFeatureRefs": [
+        {
+          "fid": 43,
+          "layer": "building",
+          "sourceId": "haidian-campus"
+        }
+      ]
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [
+        {
+          "label": "地图分类",
+          "value": "出入口安保"
+        },
+        {
+          "label": "名称状态",
+          "value": "已人工核对"
+        },
+        {
+          "label": "名称来源",
+          "value": "QGIS 海淀底稿（参照高德地图人工描绘），用户 lux 人工核对"
+        }
+      ],
+      "campus": "海淀校区",
+      "category": "building",
+      "description": "海淀校区保安队。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.3124711,
+            39.95154
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "building",
+          "placeId": "haidian-security-office",
+          "title": "保安队"
+        },
+        "type": "Feature"
+      },
+      "id": "haidian-security-office",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:haidian-security-office"
+      ],
+      "tags": [
+        "办事",
+        "服务",
+        "海淀"
+      ],
+      "title": "保安队",
+      "mapFeatureRefs": [
+        {
+          "fid": 44,
+          "layer": "building",
+          "sourceId": "haidian-campus"
+        }
+      ]
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [
+        {
+          "label": "场地数量",
+          "value": "1块"
+        }
+      ],
+      "campus": "海淀校区",
+      "category": "landmark",
+      "description": "海淀校区田径场。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.3164787,
+            39.950027
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "landmark",
+          "placeId": "haidian-running-track",
+          "title": "田径场"
+        },
+        "type": "Feature"
+      },
+      "id": "haidian-running-track",
+      "mapFeatureRefs": [
+        {
+          "fid": 1,
+          "layer": "sport",
+          "sourceId": "haidian-campus"
+        }
+      ],
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:haidian-running-track"
+      ],
+      "tags": [
+        "运动",
+        "田径",
+        "海淀"
+      ],
+      "title": "田径场"
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [
+        {
+          "label": "场地数量",
+          "value": "4块"
+        }
+      ],
+      "campus": "海淀校区",
+      "category": "landmark",
+      "description": "海淀校区足球场，共4块。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.3168328,
+            39.9490393
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "landmark",
+          "placeId": "haidian-football-fields",
+          "title": "足球场"
+        },
+        "type": "Feature"
+      },
+      "id": "haidian-football-fields",
+      "mapFeatureRefs": [
+        {
+          "fid": 2,
+          "layer": "sport",
+          "sourceId": "haidian-campus"
+        },
+        {
+          "fid": 3,
+          "layer": "sport",
+          "sourceId": "haidian-campus"
+        },
+        {
+          "fid": 4,
+          "layer": "sport",
+          "sourceId": "haidian-campus"
+        },
+        {
+          "fid": 23,
+          "layer": "sport",
+          "sourceId": "haidian-campus"
+        }
+      ],
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:haidian-football-fields"
+      ],
+      "tags": [
+        "运动",
+        "足球",
+        "海淀"
+      ],
+      "title": "足球场"
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [
+        {
+          "label": "场地数量",
+          "value": "8块"
+        }
+      ],
+      "campus": "海淀校区",
+      "category": "landmark",
+      "description": "海淀校区篮球场，共8块。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.317217,
+            39.9500879
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "landmark",
+          "placeId": "haidian-basketball-court",
+          "title": "篮球场"
+        },
+        "type": "Feature"
+      },
+      "id": "haidian-basketball-court",
+      "mapFeatureRefs": [
+        {
+          "fid": 5,
+          "layer": "sport",
+          "sourceId": "haidian-campus"
+        },
+        {
+          "fid": 6,
+          "layer": "sport",
+          "sourceId": "haidian-campus"
+        },
+        {
+          "fid": 9,
+          "layer": "sport",
+          "sourceId": "haidian-campus"
+        },
+        {
+          "fid": 10,
+          "layer": "sport",
+          "sourceId": "haidian-campus"
+        },
+        {
+          "fid": 11,
+          "layer": "sport",
+          "sourceId": "haidian-campus"
+        },
+        {
+          "fid": 12,
+          "layer": "sport",
+          "sourceId": "haidian-campus"
+        },
+        {
+          "fid": 13,
+          "layer": "sport",
+          "sourceId": "haidian-campus"
+        },
+        {
+          "fid": 14,
+          "layer": "sport",
+          "sourceId": "haidian-campus"
+        }
+      ],
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:haidian-basketball-court"
+      ],
+      "tags": [
+        "运动",
+        "篮球",
+        "海淀"
+      ],
+      "title": "篮球场"
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [
+        {
+          "label": "场地数量",
+          "value": "6块"
+        }
+      ],
+      "campus": "海淀校区",
+      "category": "landmark",
+      "description": "海淀校区网球场，共6块。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.315249,
+            39.9486373
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "landmark",
+          "placeId": "haidian-tennis-court",
+          "title": "网球场"
+        },
+        "type": "Feature"
+      },
+      "id": "haidian-tennis-court",
+      "mapFeatureRefs": [
+        {
+          "fid": 8,
+          "layer": "sport",
+          "sourceId": "haidian-campus"
+        },
+        {
+          "fid": 19,
+          "layer": "sport",
+          "sourceId": "haidian-campus"
+        },
+        {
+          "fid": 20,
+          "layer": "sport",
+          "sourceId": "haidian-campus"
+        },
+        {
+          "fid": 21,
+          "layer": "sport",
+          "sourceId": "haidian-campus"
+        },
+        {
+          "fid": 22,
+          "layer": "sport",
+          "sourceId": "haidian-campus"
+        },
+        {
+          "fid": 24,
+          "layer": "sport",
+          "sourceId": "haidian-campus"
+        }
+      ],
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:haidian-tennis-court"
+      ],
+      "tags": [
+        "运动",
+        "网球",
+        "海淀"
+      ],
+      "title": "网球场"
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [
+        {
+          "label": "场地数量",
+          "value": "4块"
+        }
+      ],
+      "campus": "海淀校区",
+      "category": "landmark",
+      "description": "海淀校区羽毛球场，共4块。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.3171748,
+            39.9497307
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "landmark",
+          "placeId": "haidian-badminton-courts",
+          "title": "羽毛球场"
+        },
+        "type": "Feature"
+      },
+      "id": "haidian-badminton-courts",
+      "mapFeatureRefs": [
+        {
+          "fid": 15,
+          "layer": "sport",
+          "sourceId": "haidian-campus"
+        },
+        {
+          "fid": 16,
+          "layer": "sport",
+          "sourceId": "haidian-campus"
+        },
+        {
+          "fid": 17,
+          "layer": "sport",
+          "sourceId": "haidian-campus"
+        },
+        {
+          "fid": 18,
+          "layer": "sport",
+          "sourceId": "haidian-campus"
+        }
+      ],
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:haidian-badminton-courts"
+      ],
+      "tags": [
+        "运动",
+        "羽毛球",
+        "海淀"
+      ],
+      "title": "羽毛球场"
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [],
+      "campus": "海淀校区",
+      "category": "service",
+      "description": "海淀校区宁波银行。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.3175175,
+            39.9477587
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "service",
+          "placeId": "haidian-bank-of-ningbo",
+          "title": "宁波银行"
+        },
+        "type": "Feature"
+      },
+      "id": "haidian-bank-of-ningbo",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:haidian-bank-of-ningbo"
+      ],
+      "tags": [
+        "银行",
+        "服务",
+        "海淀"
+      ],
+      "title": "宁波银行"
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [],
+      "campus": "海淀校区",
+      "category": "service",
+      "description": "海淀校区报刊亭。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.3143946,
+            39.9503943
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "service",
+          "placeId": "haidian-newsstand",
+          "title": "报刊亭"
+        },
+        "type": "Feature"
+      },
+      "id": "haidian-newsstand",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:haidian-newsstand"
+      ],
+      "tags": [
+        "服务",
+        "海淀"
+      ],
+      "title": "报刊亭"
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [],
+      "campus": "海淀校区",
+      "category": "service",
+      "description": "海淀校区体测中心。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.3134572,
+            39.9498031
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "service",
+          "placeId": "haidian-fitness-test-center",
+          "title": "体测中心"
+        },
+        "type": "Feature"
+      },
+      "id": "haidian-fitness-test-center",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:haidian-fitness-test-center"
+      ],
+      "tags": [
+        "服务",
+        "海淀"
+      ],
+      "title": "体测中心"
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [],
+      "campus": "海淀校区",
+      "category": "service",
+      "description": "海淀校区56创。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.3143871,
+            39.9498718
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "service",
+          "placeId": "haidian-56-chuang",
+          "title": "56创"
+        },
+        "type": "Feature"
+      },
+      "id": "haidian-56-chuang",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:haidian-56-chuang"
+      ],
+      "tags": [
+        "服务",
+        "海淀"
+      ],
+      "title": "56创"
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [],
+      "campus": "海淀校区",
+      "category": "service",
+      "description": "海淀校区知行堂。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.3147563,
+            39.9498369
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "service",
+          "placeId": "haidian-zhixing-hall",
+          "title": "知行堂"
+        },
+        "type": "Feature"
+      },
+      "id": "haidian-zhixing-hall",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:haidian-zhixing-hall"
+      ],
+      "tags": [
+        "服务",
+        "海淀"
+      ],
+      "title": "知行堂"
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [],
+      "campus": "海淀校区",
+      "category": "gate",
+      "description": "海淀校区西校门。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.310999,
+            39.9503552
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "gate",
+          "placeId": "haidian-west-gate",
+          "title": "西校门"
+        },
+        "type": "Feature"
+      },
+      "id": "haidian-west-gate",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:haidian-west-gate"
+      ],
+      "tags": [
+        "出入口",
+        "交通",
+        "海淀"
+      ],
+      "title": "西校门"
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [],
+      "campus": "海淀校区",
+      "category": "gate",
+      "description": "海淀校区北门。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.3155059,
+            39.9520959
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "gate",
+          "placeId": "haidian-north-gate",
+          "title": "北门"
+        },
+        "type": "Feature"
+      },
+      "id": "haidian-north-gate",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:haidian-north-gate"
+      ],
+      "tags": [
+        "出入口",
+        "交通",
+        "海淀"
+      ],
+      "title": "北门"
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [],
+      "campus": "海淀校区",
+      "category": "gate",
+      "description": "海淀校区东大门。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.3178101,
+            39.9482315
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "gate",
+          "placeId": "east-gate",
+          "title": "东大门"
+        },
+        "type": "Feature"
+      },
+      "id": "east-gate",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:east-gate"
+      ],
+      "tags": [
+        "出入口",
+        "交通",
+        "海淀"
+      ],
+      "title": "东大门"
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [],
+      "campus": "海淀校区",
+      "category": "gate",
+      "description": "海淀校区东小门。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.317432,
+            39.9509045
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "gate",
+          "placeId": "haidian-east-small-gate",
+          "title": "东小门"
+        },
+        "type": "Feature"
+      },
+      "id": "haidian-east-small-gate",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:haidian-east-small-gate"
+      ],
+      "tags": [
+        "出入口",
+        "交通",
+        "海淀"
+      ],
+      "title": "东小门"
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [],
+      "campus": "海淀校区",
+      "category": "gate",
+      "description": "海淀校区南门。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.3148987,
+            39.9471895
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "gate",
+          "placeId": "haidian-south-gate",
+          "title": "南门"
+        },
+        "type": "Feature"
+      },
+      "id": "haidian-south-gate",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:haidian-south-gate"
+      ],
+      "tags": [
+        "出入口",
+        "交通",
+        "海淀"
+      ],
+      "title": "南门"
+    }
+  ]
+}

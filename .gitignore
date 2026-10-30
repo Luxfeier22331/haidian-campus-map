@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+qgis/
+reference/
+data/
+*.gpkg
+*.qgz
+*-journal
