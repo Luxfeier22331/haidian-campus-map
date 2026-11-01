@@ -420,6 +420,8 @@
     "poi:7": "haidian-newsstand",
     "poi:8": "haidian-fitness-test-center",
     "poi:9": "haidian-56-chuang",
-    "poi:10": "haidian-zhixing-hall"
+    "poi:10": "haidian-zhixing-hall",
+    "poi:16": "haidian-express-pickup",
+    "poi:17": "haidian-card-reissue-machine"
   }
 }

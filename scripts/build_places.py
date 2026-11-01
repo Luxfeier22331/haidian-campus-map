@@ -154,6 +154,10 @@ def build(feats, poi_rows, to_wgs, reg):
         extra = []
         if r.get("type") == "bank":
             tags = ["银行", "服务", "海淀"]
+        elif r.get("type") == "express":
+            tags = ["快递", "生活", "服务", "海淀"]
+        elif r.get("type") == "card_machine":
+            tags = ["校园卡", "自助", "服务", "海淀"]
         elif r.get("type") == "gate":
             cat = "gate"
             tags = ["出入口", "交通", "海淀"]

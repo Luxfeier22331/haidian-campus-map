@@ -2817,6 +2817,74 @@
         "海淀"
       ],
       "title": "南门"
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [],
+      "campus": "海淀校区",
+      "category": "service",
+      "description": "海淀校区快递点。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.3176562,
+            39.9484005
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "service",
+          "placeId": "haidian-express-pickup",
+          "title": "快递点"
+        },
+        "type": "Feature"
+      },
+      "id": "haidian-express-pickup",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:haidian-express-pickup"
+      ],
+      "tags": [
+        "快递",
+        "生活",
+        "服务",
+        "海淀"
+      ],
+      "title": "快递点"
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [],
+      "campus": "海淀校区",
+      "category": "service",
+      "description": "海淀校区补卡机。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.3135358,
+            39.9493317
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "service",
+          "placeId": "haidian-card-reissue-machine",
+          "title": "补卡机"
+        },
+        "type": "Feature"
+      },
+      "id": "haidian-card-reissue-machine",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:haidian-card-reissue-machine"
+      ],
+      "tags": [
+        "校园卡",
+        "自助",
+        "服务",
+        "海淀"
+      ],
+      "title": "补卡机"
     }
   ]
 }
