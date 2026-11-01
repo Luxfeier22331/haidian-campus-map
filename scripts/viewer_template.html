@@ -78,7 +78,6 @@ svg.i{width:16px;height:16px;fill:none;stroke:currentColor;stroke-width:2;stroke
 .toggle:active{background:var(--sel-pressed)}
 .panel.expanded .toggle{background:var(--ov-soft);color:var(--muted)}
 .panel.expanded .toggle:hover{background:var(--ov-hover);color:var(--text)}
-.notice{margin:0;padding:8px 12px;border:1px solid var(--border-subtle);border-radius:12px;background:var(--ov-soft);font-size:12px;line-height:20px;color:var(--muted)}
 .chips{display:flex;gap:4px;overflow-x:auto;padding-bottom:2px;scrollbar-width:none}
 .chips::-webkit-scrollbar{display:none}
 .chip{flex:none;min-height:36px;padding:0 12px;border:0;border-radius:999px;background:transparent;font-size:14px;font-weight:500;color:var(--muted);transition:background-color var(--fast) var(--ease),color var(--fast) var(--ease)}
@@ -176,7 +175,6 @@ svg.i{width:16px;height:16px;fill:none;stroke:currentColor;stroke-width:2;stroke
         </form>
         <button type="button" class="toggle" id="toggle" aria-controls="results" aria-expanded="false"></button>
       </div>
-      <p class="notice" id="notice"></p>
       <div class="chips" id="chips" role="group" aria-label="地点类型"></div>
     </div>
     <div class="results" id="results"></div>
@@ -429,10 +427,8 @@ document.getElementById("zout").onclick=()=>zoomBy(-1);
 document.getElementById("reset").onclick=()=>{intent="filter";resetView()};
 
 // ---------- 面板 ----------
-const panel=document.getElementById("panel"),qEl=document.getElementById("q"),qClear=document.getElementById("qclear"),toggleEl=document.getElementById("toggle"),chipsEl=document.getElementById("chips"),resultsEl=document.getElementById("results"),noticeEl=document.getElementById("notice");
+const panel=document.getElementById("panel"),qEl=document.getElementById("q"),qClear=document.getElementById("qclear"),toggleEl=document.getElementById("toggle"),chipsEl=document.getElementById("chips"),resultsEl=document.getElementById("results");
 let query="",category="all",expanded=false,activeIdx=-1,openGroups=new Set(),intent="filter",visible=[];
-const unnamed=GEO.features.filter(f=>f.properties.layer==="building"&&!f.properties.name).length;
-noticeEl.textContent=`海淀校区地图审阅版（${META.date}）。`+(unnamed?`有 ${unnamed} 栋建筑名称待核，用虚线框标出。`:"");
 const usedCats=CATS.filter(c=>ITEMS.some(it=>it.cat===c[1]));
 for(const[label,val]of[["全部","all"],...usedCats]){const b=document.createElement("button");b.type="button";b.className="chip";b.dataset.v=val;b.textContent=label;b.onclick=()=>{intent="filter";category=val;activeIdx=-1;update(true)};chipsEl.appendChild(b)}
 
@@ -452,7 +448,7 @@ function update(refit){
   toggleEl.setAttribute("aria-expanded",String(expanded));
   toggleEl.innerHTML=(expanded?ICON.up:ICON.down)+`<span>${expanded?"收起":"地点"}</span>`;
   toggleEl.setAttribute("aria-label",expanded?"收起地点结果":"展开地点结果");
-  chipsEl.hidden=!showList;noticeEl.hidden=compact;
+  chipsEl.hidden=!showList;
   for(const c of chipsEl.children)c.setAttribute("aria-pressed",String(c.dataset.v===category));
   qClear.hidden=!query;qEl.classList.toggle("has",!!query);
   resultsEl.hidden=!showList;
