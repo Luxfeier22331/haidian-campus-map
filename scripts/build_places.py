@@ -152,15 +152,20 @@ def build(feats, poi_rows, to_wgs, reg):
         cat = "service"
         tags = ["服务", "海淀"]
         extra = []
+        desc = f"海淀校区{name}。"
         if r.get("type") == "bank":
             tags = ["银行", "服务", "海淀"]
         elif r.get("type") == "express":
             tags = ["快递", "生活", "服务", "海淀"]
         elif r.get("type") == "card_machine":
             tags = ["校园卡", "自助", "服务", "海淀"]
+            where = (r.get("desc") or "").split("；")[0]
+            if where:
+                desc = f"{where}的{name}。"
+                extra.append({"label": "位置", "value": where})
         elif r.get("type") == "gate":
             cat = "gate"
             tags = ["出入口", "交通", "海淀"]
         add(f"poi:{r['fid']}", name, "poi", {"fid": r["fid"]}, g, cat, tags,
-            f"海淀校区{name}。", extra, refs=False)
+            desc, extra, refs=False)
     return out

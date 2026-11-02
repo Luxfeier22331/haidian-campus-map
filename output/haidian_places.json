@@ -2854,10 +2854,15 @@
     },
     {
       "accessNote": null,
-      "additionalProperties": [],
+      "additionalProperties": [
+        {
+          "label": "位置",
+          "value": "文华楼西南角"
+        }
+      ],
       "campus": "海淀校区",
       "category": "service",
-      "description": "海淀校区补卡机。",
+      "description": "文华楼西南角的补卡机。",
       "geojson": {
         "geometry": {
           "coordinates": [
@@ -2877,6 +2882,84 @@
       "sourceRefs": [
         "campus-map:private-source:haidian-qgis-draft",
         "campus-map:projection:haidian-card-reissue-machine"
+      ],
+      "tags": [
+        "校园卡",
+        "自助",
+        "服务",
+        "海淀"
+      ],
+      "title": "补卡机"
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [
+        {
+          "label": "位置",
+          "value": "中慧楼西南角"
+        }
+      ],
+      "campus": "海淀校区",
+      "category": "service",
+      "description": "中慧楼西南角的补卡机。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.316595,
+            39.9479475
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "service",
+          "placeId": "haidian-card-reissue-machine-zhonghui",
+          "title": "补卡机"
+        },
+        "type": "Feature"
+      },
+      "id": "haidian-card-reissue-machine-zhonghui",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:haidian-card-reissue-machine-zhonghui"
+      ],
+      "tags": [
+        "校园卡",
+        "自助",
+        "服务",
+        "海淀"
+      ],
+      "title": "补卡机"
+    },
+    {
+      "accessNote": null,
+      "additionalProperties": [
+        {
+          "label": "位置",
+          "value": "理工楼西南角"
+        }
+      ],
+      "campus": "海淀校区",
+      "category": "service",
+      "description": "理工楼西南角的补卡机。",
+      "geojson": {
+        "geometry": {
+          "coordinates": [
+            116.3126039,
+            39.9471881
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "category": "service",
+          "placeId": "haidian-card-reissue-machine-science-engineering",
+          "title": "补卡机"
+        },
+        "type": "Feature"
+      },
+      "id": "haidian-card-reissue-machine-science-engineering",
+      "sourceRefs": [
+        "campus-map:private-source:haidian-qgis-draft",
+        "campus-map:projection:haidian-card-reissue-machine-science-engineering"
       ],
       "tags": [
         "校园卡",

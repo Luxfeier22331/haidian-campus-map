@@ -422,6 +422,8 @@
     "poi:9": "haidian-56-chuang",
     "poi:10": "haidian-zhixing-hall",
     "poi:16": "haidian-express-pickup",
-    "poi:17": "haidian-card-reissue-machine"
+    "poi:17": "haidian-card-reissue-machine",
+    "poi:18": "haidian-card-reissue-machine-zhonghui",
+    "poi:19": "haidian-card-reissue-machine-science-engineering"
   }
 }
