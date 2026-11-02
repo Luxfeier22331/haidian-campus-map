@@ -369,9 +369,7 @@
     "building:10": "science-engineering-building",
     "poi:11": "haidian-west-gate",
     "poi:14": "haidian-east-small-gate",
-    "poi:12": "haidian-north-gate",
     "poi:13": "east-gate",
-    "poi:15": "haidian-south-gate",
     "building:30": "haidian-staff-apartment-23",
     "building:31": "haidian-teaching-building-20",
     "building:13": "haidian-staff-apartment-15",
@@ -425,5 +423,17 @@
     "poi:17": "haidian-card-reissue-machine",
     "poi:18": "haidian-card-reissue-machine-zhonghui",
     "poi:19": "haidian-card-reissue-machine-science-engineering"
+  },
+  "retired_places": {
+    "poi:12": {
+      "id": "haidian-north-gate",
+      "retired": "2026-11-02",
+      "reason": "lux：海淀校区没有这个门"
+    },
+    "poi:15": {
+      "id": "haidian-south-gate",
+      "retired": "2026-11-02",
+      "reason": "lux：海淀校区没有这个门"
+    }
   }
 }

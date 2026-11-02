@@ -2691,39 +2691,6 @@
       "additionalProperties": [],
       "campus": "海淀校区",
       "category": "gate",
-      "description": "海淀校区北门。",
-      "geojson": {
-        "geometry": {
-          "coordinates": [
-            116.3155059,
-            39.9520959
-          ],
-          "type": "Point"
-        },
-        "properties": {
-          "category": "gate",
-          "placeId": "haidian-north-gate",
-          "title": "北门"
-        },
-        "type": "Feature"
-      },
-      "id": "haidian-north-gate",
-      "sourceRefs": [
-        "campus-map:private-source:haidian-qgis-draft",
-        "campus-map:projection:haidian-north-gate"
-      ],
-      "tags": [
-        "出入口",
-        "交通",
-        "海淀"
-      ],
-      "title": "北门"
-    },
-    {
-      "accessNote": null,
-      "additionalProperties": [],
-      "campus": "海淀校区",
-      "category": "gate",
       "description": "海淀校区东大门。",
       "geojson": {
         "geometry": {
@@ -2784,39 +2751,6 @@
         "海淀"
       ],
       "title": "东小门"
-    },
-    {
-      "accessNote": null,
-      "additionalProperties": [],
-      "campus": "海淀校区",
-      "category": "gate",
-      "description": "海淀校区南门。",
-      "geojson": {
-        "geometry": {
-          "coordinates": [
-            116.3148987,
-            39.9471895
-          ],
-          "type": "Point"
-        },
-        "properties": {
-          "category": "gate",
-          "placeId": "haidian-south-gate",
-          "title": "南门"
-        },
-        "type": "Feature"
-      },
-      "id": "haidian-south-gate",
-      "sourceRefs": [
-        "campus-map:private-source:haidian-qgis-draft",
-        "campus-map:projection:haidian-south-gate"
-      ],
-      "tags": [
-        "出入口",
-        "交通",
-        "海淀"
-      ],
-      "title": "南门"
     },
     {
       "accessNote": null,
